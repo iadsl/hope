@@ -52,3 +52,14 @@ The HOPE project relies on high-quality, publicly available datasets for researc
   - **Access**:
     - [COSMOS Website](https://cosmos.epic.com/)
     - **License**: Requires agreements through participating Epic institutions.
+
+- **EMRBots**: A synthetic Electronic Medical Record (EMR) dataset designed to simulate clinical scenarios for research and analysis. This dataset provides an innovative resource for testing machine learning models in healthcare contexts without the privacy concerns of real-world patient data.
+
+  - **Key Features**:
+    - Synthetic EMR data that mimics real-world patient scenarios.
+    - Includes structured and unstructured data for various clinical use cases.
+    - Useful for machine learning applications in healthcare without requiring patient data access.
+
+  - **Access**:
+    - [EMRBots GitHub Repository](https://github.com/kartoun/emrbots)
+    - **License**: Open-source and publicly available under the terms specified in the repository.
