@@ -42,7 +42,7 @@ The HOPE project relies on high-quality, publicly available datasets for researc
     - [All of Us Research Program Website](https://www.joinallofus.org/)
     - **License**: Requires registration, data use agreements, and ethics training.
 
-- **Epic COSMOS**: is Epic’s extensive dataset designed to provide insights into patient care trends. It aggregates real-world clinical data from millions of patients across Epic’s client organizations, offering a powerful resource for research and analysis.
+- **Epic COSMOS**: is Epic's extensive dataset designed to provide insights into patient care trends. It aggregates real-world clinical data from millions of patients across Epic’s client organizations, offering a powerful resource for research and analysis.
 
   - **Key Features**:
     - Real-world clinical data from more than 160 million patients.
@@ -50,10 +50,10 @@ The HOPE project relies on high-quality, publicly available datasets for researc
     - Supports advanced analytics and machine learning applications.
 
   - **Access**:
-    - [COSMOS Website](https://cosmos.epic.com/)
+    - [COSMOS Website](https://cosmos.epic.com)
     - **License**: Requires agreements through participating Epic institutions.
 
-- **EMRBots**: A synthetic Electronic Medical Record (EMR) dataset designed to simulate clinical scenarios for research and analysis. This dataset provides an innovative resource for testing machine learning models in healthcare contexts without the privacy concerns of real-world patient data.
+- [**EMRBots**](https://en.wikipedia.org/wiki/EMRBots): A synthetic Electronic Medical Record (EMR) dataset designed to simulate clinical scenarios for research and analysis. This dataset provides an innovative resource for testing machine learning models in healthcare contexts without the privacy concerns of real-world patient data.
 
   - **Key Features**:
     - Synthetic EMR data that mimics real-world patient scenarios.
