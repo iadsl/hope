@@ -16,6 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hope/data/";
           },
+        },{id: "nav-",
+          title: "...",
+          description: "...",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hope/tasks/";
+          },
+        },{id: "nav-our-team",
+          title: "Our Team",
+          description: "The talented team making VISTA a reality.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hope/people/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
