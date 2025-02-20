@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hope/data/";
           },
-        },{id: "nav-",
-          title: "...",
-          description: "...",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hope/tasks/";
-          },
         },{id: "nav-our-team",
           title: "Our Team",
           description: "The talented team making VISTA a reality.",
