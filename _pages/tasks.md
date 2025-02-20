@@ -3,7 +3,7 @@ layout: page
 permalink: /tasks/
 title: ...
 description: ...
-nav: true
+nav: false
 nav_order: 2
 ---
 
