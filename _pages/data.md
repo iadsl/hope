@@ -63,3 +63,5 @@ The HOPE project relies on high-quality, publicly available datasets for researc
   - **Access**:
     - [EMRBots GitHub Repository](https://github.com/kartoun/emrbots)
     - **License**: Open-source and publicly available under the terms specified in the repository.
+
+[View Additional Description]({{ site.baseurl }}/data-description)
