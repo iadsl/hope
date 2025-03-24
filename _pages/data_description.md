@@ -43,6 +43,9 @@ A large, freely-available database containing de-identified health-related data 
 - [Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization](https://arxiv.org/pdf/2309.07430) ([Code](https://github.com/StanfordMIMI/clin-summ))
   - four distinct clinical summarization task (radiology reports, patient questions, progress notes, and doctor-patient dialogue)
   - 10 physicians evaluated the summary completeness, correctness, and conciseness. [ equivalent(46%) or superior(36%) compared to summaries from medical experts.]
+- [GraphCare: Enhancing Healthcare Predictions with Personalized Knowledge Graphs](https://arxiv.org/pdf/2305.12788) - ([Code](https://github.com/pat-jj/GraphCare))
+  - Mortality Prediction, Length of Stay Prediction, Readmission Prediction, Drug Recommendation
+  - Explictly uses MIMIC-III and MIMIC-IV datasets
 
 ---
 
@@ -76,7 +79,7 @@ It is the latest iteration of the MIMIC database, featuring updated data from th
 
 - [Mimic-iv Tables Overview](https://slideslive.com/embed/presentation/38931965) by Alistair Johnson
 - [Reporduction of a study in MIMIC-IV](https://slideslive.com/embed/presentation/38932058) by Alistair Johnson
-        - ([Related Code](https://github.com/alistairewj/mimic-iv-aline-study))
+        - ([Code](https://github.com/alistairewj/mimic-iv-aline-study))
 - [Notebook](https://github.com/MIT-LCP/mimic-code/blob/main/mimic-iv/notebooks/tableone.ipynb): Shows how to use the data in MIMIC-IV
 
 ---
@@ -90,6 +93,10 @@ It is the latest iteration of the MIMIC database, featuring updated data from th
   - Could be useful in medical dialogue systems
 - [Development and validation of a machine-learning model for predicting the risk of death in sepsis patients with acute kidney injury](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06016-X)
   - Explictly uses MIMIC-III and MIMIC-IV datasets
-- [GraphCare: Enhancing Healthcare Predictions with Personalized Knowledge Graphs](https://arxiv.org/pdf/2305.12788)
-  - Mortality Prediction, Length of Stay Prediction, Readmission Prediction, Drug Recommendation
-  - Explictly uses MIMIC-III and MIMIC-IV datasets
+
+### Additional Resources
+
+- [Standardized Data: The OMOP Common Data Model](https://www.ohdsi.org/data-standardization/): The Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence.
+  - [Tutorials on OMOP Common Data Model](https://www.youtube.com/watch?v=vHMkBaHJrDA)
+  - [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/index.html)
+- [Collection of Graph-based Deep Learning Literatures](https://github.com/naganandy/graph-based-deep-learning-literature)
