@@ -93,6 +93,7 @@ It is the latest iteration of the MIMIC database, featuring updated data from th
   - Could be useful in medical dialogue systems
 - [Development and validation of a machine-learning model for predicting the risk of death in sepsis patients with acute kidney injury](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06016-X)
   - Explictly uses MIMIC-III and MIMIC-IV datasets
+- [Irregular Time Series Papers]({{ site.baseurl }}/irregular-time-series-papers)
 
 ### Additional Resources
 
