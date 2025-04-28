@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Our Team
-description: The talented team making VISTA a reality.
+description: The talented team making HOPE a reality.
 nav: true
 nav_order: 7
 
