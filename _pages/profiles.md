@@ -16,9 +16,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >   
 
-  - align: left
+  - align: right
     image: profiles/nishan-khanal.jpg
     content: about_nishan-khanal.md
     image_circular: false # crops the image to make it circular
     more_info: > 
+
+  - align: right
+    image: profiles/imran-khaled.jpg
+    content: about_imran-khaled.md
+    image_circular: false # crops the image to make it circular
+    more_info: > 
+    
 ---
